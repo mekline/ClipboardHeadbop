@@ -9,6 +9,7 @@
 -- (Space for kid’s name)
 
 - Welcome kid & family, sign consent forms, *camera on*, get settled
+- Give slip of paper to give to the parents, and tell them there's a quick instruction sheet for them about the experiment (see bottom). *Go over it verbally as well!!!*
 
 #### Warmup
 
@@ -39,22 +40,47 @@ In all cases, the goal is to have the kid attending to you, happy & smiling, com
 
 #### Toy introduction
 
-#### Toy demo
+"And guess what, I also have another cool toy, but first I need to just write something down."
 
-#### Toy handoff (first action)
+Spend 5-10 seconds actually writing.  Body positions:
 
-#### Exploration
+- Two-hands: Dominant hand writing, non-dominant wrapping over the top of the clipboad. Clipboard rests on your lap, slightly off center from the toy position. Face straight toward the child (shouldn't need to shift much between writing and toy focus)
 
-#### Wrap-up
+- One-hand: Dominant hand writing with clipboard on lap. All else the same, but non-dominant hand rests on the table.  Don't be ostentatious, but do use a big movement to put your hand down rather than 'sneaking'. If you move away to interact with the toy, replace your hands in  the same way. 
+
+Place toy on the table, right in front of you. ***Note: make sure not to touch top surface of toy at any point.  Pick it up by the sides only. Return to writing posture.
+
+"Whoa, cool, look at this!"
+
+Spend 5-10 sec writing.
+
+"Let me show you! Look...."
+- "...watch me!"
+- "...I'm gonna dax!"
+- "...I'm gonna dax my toy!"
+
+Toy demonstration: Start from a straight backed posture. Bend fairly slowly all the way down to hit the toy, then rise fully back up. 
+
+"Wow, cool..."
+- "look at that!"
+- "I daxed!"
+- "I daxed my toy!"
+
+"That's so cool!" (keep writing)
+
+"I'm gonna do that again! Look...."
+- "...watch me!"
+- "...I'm gonna dax!"
+- "...I'm gonna dax my toy!"
+
+Repeat toy demonstration.
 
 
+"Yeah..."
+- "look at that!"
+- "I daxed!"
+- "I daxed my toy!"
 
-And guess what, I also have this cool toy.  Look at my toy!  
-
-*Note: make sure not to touch top surface of toy at any point.  Pick it up by the sides only.
-
-But you know what, I'm cold! (Shivering motions)
-I'm gonna wear this blanket.  I'm wrapping myself aaall up... (make a bit of a production about it.  Adjust yourself so hand's free, but NOT visible to child.)
 
 And guess what? I'm gonna dax my toy? (I'm gonna dax at my toy/Look at me!)
 *Lean over and touch toy with head, spins
@@ -67,3 +93,28 @@ I dated my toy/I daxed at my toy/Wow, cool!
 (Blanket off again).
 Now it's your turn - can you dax the toy?/can you dax at the toy/can you try?
 *Hand over to child.  60 second free play window.  If no immitations forthcoming, ok to say 2-3 more times:  Can you dax (at) the toy? or NAME, dax (at) the toy! (or ‘your turn!)
+#### Toy demo
+
+#### Toy handoff (first action)
+
+#### Exploration
+
+#### Wrap-up
+
+
+Welcome kid & family, sign consent forms, camera on, get settled. 
+
+#### Printed instructions for parents
+
+Hello, and thanks for participating in our study today! 
+
+At the end of our game today, I'm going to give your child a toy to play with, but the toy will stop working temporarily
+
+Please let your child play and explore with the toy - if they ask for help, you can say "Hm, I don't know!", but please don't describe the toy or give your child specific instructions. You can direct your child back to the toy by saying “Want to try again?”
+
+After about 60 seconds we will turn the toy back on for your child to play with!
+
+
+
+
+
