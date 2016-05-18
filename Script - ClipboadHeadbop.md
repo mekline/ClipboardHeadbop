@@ -1,15 +1,18 @@
 #Script for ClipboardHeadbop
 
 #### Intro
-- Prepare the ‘slate’ whiteboard to show to the camera:
+Prepare the ‘slate’ whiteboard to show to the camera:
 -- Date
 -- Study name
 -- Condition
 -- Subject #
 -- (Space for kid’s name)
 
-- Welcome kid & family, sign consent forms, *camera on*, get settled
-- Give slip of paper to give to the parents, and tell them there's a quick instruction sheet for them about the experiment (see bottom). *Go over it verbally as well!!!*
+As of 5/18: Do Baseline condition (no novel verbs) for several subjects to make sure paradigm is stable. 
+
+Welcome kid & family, sign consent forms, *camera on*, get settled
+
+Give slip of paper to give to the parents, and tell them there's a quick instruction sheet for them about the experiment (see bottom). *Go over it verbally as well!!!*
 
 #### Warmup
 
@@ -40,19 +43,23 @@ In all cases, the goal is to have the kid attending to you, happy & smiling, com
 
 #### Toy introduction
 
-"And guess what, I also have another cool toy, but first I need to just write something down."
+"And guess what, I also have another cool toy...let me just write something down first."
 
 Spend 5-10 seconds actually writing.  Body positions:
 
-- Two-hands: Dominant hand writing, non-dominant wrapping over the top of the clipboad. Clipboard rests on your lap, slightly off center from the toy position. Face straight toward the child (shouldn't need to shift much between writing and toy focus)
+- Two-hands: Dominant hand writing, non-dominant wrapping over the top of the clipboad. Clipboard rests on your lap, slightly off center from the toy position. Your knees are facing a bit away but your torso/head should point at child. (shouldn't need to shift much between writing and toy focus)
 
-- One-hand: Dominant hand writing with clipboard on lap. All else the same, but non-dominant hand rests on the table.  Don't be ostentatious, but do use a big movement to put your hand down rather than 'sneaking'. If you move away to interact with the toy, replace your hands in  the same way. 
+- One-hand: Dominant hand writing with clipboard on lap. All else the same, but non-dominant hand rests on the table.  Don't be ostentatious, but do use a big movement to put your hand down rather than 'sneaking'. If you move away to interact with the toy, replace your hand in the same way. Make sure hand, toy, and clipboard are all in the same small-ish working space, facing toward child. 
 
-Place toy on the table, right in front of you. ***Note: make sure not to touch top surface of toy at any point.  Pick it up by the sides only. Return to writing posture.
+Move away from posture to place toy on the table, right in front of you. ***Note: make sure not to touch top surface of toy at any point.  Pick it up by the sides only.
 
-"Whoa, cool, look at this!"
+Return to writing posture.
+
+"Whoa, cool, look at this toy, wow!"
 
 Spend 5-10 sec writing.
+
+#### Toy demo
 
 "Let me show you! Look...."
 - "...watch me!"
@@ -74,35 +81,38 @@ Toy demonstration: Start from a straight backed posture. Bend fairly slowly all 
 - "...I'm gonna dax my toy!"
 
 Repeat toy demonstration.
-
-
 "Yeah..."
 - "look at that!"
 - "I daxed!"
 - "I daxed my toy!"
 
-
-And guess what? I'm gonna dax my toy? (I'm gonna dax at my toy/Look at me!)
-*Lean over and touch toy with head, spins
-I daxed my toy!/I daxed at my toy/ See that?
- I'm gonna dax my toy again!/I’m gonna dax at my toy again!/ I’m gonna try again!
-*Repeat*
-I daxed my toy!
-I dated my toy/I daxed at my toy/Wow, cool!
-
-(Blanket off again).
-Now it's your turn - can you dax the toy?/can you dax at the toy/can you try?
-*Hand over to child.  60 second free play window.  If no immitations forthcoming, ok to say 2-3 more times:  Can you dax (at) the toy? or NAME, dax (at) the toy! (or ‘your turn!)
-#### Toy demo
-
 #### Toy handoff (first action)
+
+"That's pretty cool, huh?" (5 sec of writing)
+
+"Now it's your turn! Can you..."
+- "...try that?"
+- "...dax?"
+- "...dax the toy?"
+
+Place the toy at the edge of the table closest to the child.  This should be within easy reach of the child's head!
+
+*Return to the writing posture/keep writing*
 
 #### Exploration
 
+60 second free play window (time it or use your phone; it will feel MUCH longer).  If no immitations are forthcoming, ok to say
+
+- "Can you show me?"
+- "Your turn!"
+
+Or one more demonstration with langauge as in 2nd demo above.
+
+As soon as they are interacting with the toy, start the 60 second 'clock' (longer is better than shorter) and attend to your writing.  It's ok to mildly redirect the child to the toy if they are running away/encourage the parent to let them keep playing, otherwise let them go wild :)
+
 #### Wrap-up
 
-
-Welcome kid & family, sign consent forms, camera on, get settled. 
+"Awesome, great job!!" If the kid has not yet successfully activated the toy, help them do so.
 
 #### Printed instructions for parents
 
