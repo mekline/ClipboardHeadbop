@@ -10,13 +10,13 @@ Prepare the ‘slate’ whiteboard to show to the camera:
 
 As of 5/18: Do Baseline condition (no novel verbs) for several subjects to make sure paradigm is stable. 
 
-Welcome kid & family, sign consent forms, *camera on*, get settled
+Welcome kid & family, sign consent forms, write kid's name down, show it to the camera, get settled
 
 Give slip of paper to give to the parents, and tell them there's a quick instruction sheet for them about the experiment (see bottom). *Go over it verbally as well!!!*
 
 #### Warmup
 
-Note: Turn camera on at the beginning of the play/warmup - differences here have sometimes mattered for sorting out how to get the kids happy & interested.
+Note: Turn camera on at the beginning of the play/warmup!! - differences here have sometimes mattered for sorting out how to get the kids happy & interested.
 
 Warmup options:
 
