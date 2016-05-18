@@ -1,6 +1,6 @@
 #Script for ClipboardHeadbop
 
-### Intro
+#### Intro
 - Prepare the ‘slate’ whiteboard to show to the camera:
 -- Date
 -- Study name
@@ -10,22 +10,42 @@
 
 - Welcome kid & family, sign consent forms, *camera on*, get settled
 
+#### Warmup
+
 Note: Turn camera on at the beginning of the play/warmup - differences here have sometimes mattered for sorting out how to get the kids happy & interested.
 
 Warmup options:
 
 ‘Simon Says’
+
 Here's my friend Sarah.  And Sarah says, Hi Name!
+
 Can you wave at her?  Wow, you're waving, yay!!!
 
 And guess what, she's gonna clap her hands! Can you clap your hands? Yay!  Clap your hands!
 
 And she's gonna touch her head! Can you touch your head? (Use your own free hand to demo) Yay!!
 
-‘
+'Catch'
+
+Roll a ball/toy back and forth. Talk with the child about what's happening, but don't push them to imitate if they are shy.  Also works with a soft toy that you give back and forth.
+
+'Cool toy'
+
+Explore the tag blanket or another interesting toy.
+
+In all cases, the goal is to have the kid attending to you, happy & smiling, comfortable with at least some kind of interaction with you.  (Especially - if you hold something out & give it to them, do they take it?)
 
 
+#### Toy introduction
 
+#### Toy demo
+
+#### Toy handoff (first action)
+
+#### Exploration
+
+#### Wrap-up
 
 
 
