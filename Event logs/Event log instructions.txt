@@ -1,0 +1,12 @@
+event logs go in this folder! Name them as follows:
+
+CHB_subjNo.txt  
+For instance: CHB_01.txt
+
+
+On Noveltoy in the ClipboardHeadbop folder you should have:
+
+- Orginal mp4
+- Exported .mov version that is linked to VCode
+- The vcode file itself (eg CHB_06012016_01.cod) 
+- The exported event log (CHB_01.txt)
