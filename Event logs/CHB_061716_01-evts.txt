@@ -1,0 +1,14 @@
+Offset: 0, Movie: MoviePathHere, DataFile: (null)
+Tracks: Hand Touch, Head Touch, 1st response, Engagement, IBAs, Total Trial, Warm-up, Demo, 1st Response Window, Exploration
+Time,Duration,TrackName,comment
+
+4014,78773,Total Trial,(null)
+4041,37481,Warm-up,(null)
+62334,4527,Demo,(null)
+67272,3509,1st Response Window,(null)
+67295,15630,Exploration,(null)
+70655,4158,IBAs,(null)
+70782,4066,Engagement,(null)
+71101,0,1st response,(null)
+71117,0,Hand Touch,(null)
+73622,0,Hand Touch,(null)
